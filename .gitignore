@@ -1,0 +1,10 @@
+# macOS specific files
+.DS_Store
+
+# Go binaries and build files
+*.exe
+*.test
+*.out
+
+# IDE/Editor files (e.g., VS Code settings)
+.vscode/
